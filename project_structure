@@ -1,0 +1,3 @@
+chinese-words-app/
+├── frontend/           # React TypeScript frontend
+└── backend/           # Python Flask backend 
